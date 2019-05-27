@@ -1,0 +1,2 @@
+[ req_distinguished_name ]
+emailAddress="me@domain.com"
